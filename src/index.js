@@ -11,15 +11,15 @@ import {
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "sign-app/",
     element: <App/>,
   },
   {
-    path: "/signup",
+    path: "sign-app/signup",
     element: <SignUp />,
   },
   {
-    path: "/landing",
+    path: "sign-app/landing",
     element: <Landing />,
   }
 ]);
