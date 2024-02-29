@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/sign-app/static/css/main.0ca11e39.css",
-    "main.js": "/sign-app/static/js/main.5a04dfd9.js",
+    "main.js": "/sign-app/static/js/main.ebc4a6a3.js",
     "index.html": "/sign-app/index.html",
     "main.0ca11e39.css.map": "/sign-app/static/css/main.0ca11e39.css.map",
-    "main.5a04dfd9.js.map": "/sign-app/static/js/main.5a04dfd9.js.map"
+    "main.ebc4a6a3.js.map": "/sign-app/static/js/main.ebc4a6a3.js.map"
   },
   "entrypoints": [
     "static/css/main.0ca11e39.css",
-    "static/js/main.5a04dfd9.js"
+    "static/js/main.ebc4a6a3.js"
   ]
 }
